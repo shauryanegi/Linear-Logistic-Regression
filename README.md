@@ -12,4 +12,4 @@ Before attempting to fit a linear model to observed data, a modeler should first
 A linear regression line has an equation of the form Y = a + bX, where X is the explanatory variable and Y is the dependent variable. The slope of the line is b, and a is the intercept (the value of y when x = 0).
 
 
-# We have coded an univariate linear regression algorithm using numpy, pandas and plotted graphs using matplotlib.
+## We have coded an univariate linear regression algorithm using numpy, pandas and plotted graphs using matplotlib.
