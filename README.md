@@ -1,4 +1,4 @@
-# Linear-Regression
+# Linear-Regression and Logistic Regression
 
 
 ![alt text](https://miro.medium.com/max/640/0*gKOV65tvGfY8SMem.png)
