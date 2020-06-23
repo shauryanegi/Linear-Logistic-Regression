@@ -1,7 +1,7 @@
 # Linear-Regression
 
 
-![alt text](https://mlfromscratch.com/content/images/2020/01/linearRegression2-3.png)
+![alt text](https://miro.medium.com/max/640/0*gKOV65tvGfY8SMem.png)
 
 In statistics, linear regression is a linear approach to modeling the relationship between a scalar response (or dependent variable) and one or more explanatory variables (or independent variables).
 
@@ -13,3 +13,10 @@ A linear regression line has an equation of the form Y = a + bX, where X is the 
 
 
 ## We have coded an univariate linear regression algorithm using numpy, pandas and plotted graphs using matplotlib.
+
+# Logistic Regression
+
+
+In statistics, the logistic model (or logit model) is used to model the probability of a certain class or event existing such as pass/fail, win/lose, alive/dead or healthy/sick. This can be extended to model several classes of events such as determining whether an image contains a cat, dog, lion, etc. Each object being detected in the image would be assigned a probability between 0 and 1, with a sum of one.
+
+Logistic regression is a statistical model that in its basic form uses a logistic function to model a binary dependent variable, although many more complex extensions exist.
